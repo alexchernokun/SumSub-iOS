@@ -16,12 +16,12 @@ let package = Package(
         .binaryTarget(
             name: "IdensicMobileSDK",
             url: "https://github.com/SumSubstance/IdensicMobileSDK-iOS-Release/raw/master/1.18.0/IdensicMobileSDK-1.18.0.zip",
-            checksum: "4b629259ae8fc9a2ce662fac29a9be69031f3d04d664dba66cb6473f42f90029"
+            checksum: "da58ca91e32a0e99bdd1391b5069465d8b9929f7b233808fd5784403e8c0dfff"
         ),
         .binaryTarget(
             name: "ZoomAuthSDK",
             url: "https://github.com/SumSubstance/IdensicMobileSDK-iOS-Release/raw/master/Deps/ZoomAuthSDK-8.12.1.zip",
-            checksum: "c57be6eb7aba7939e544d76ed6c366a39db1a60a4ac232cd8ea55fa79ff6eebe"
+            checksum: "81f251b5baf2bb1c461b3c12e4030df0ef81aa41c9bdb450d6571eda72f7057e"
         )
     ]
 )
